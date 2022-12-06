@@ -1,0 +1,236 @@
+/* Header */
+
+#home {
+    background-image: url(/images/bg_header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 10% 0;
+    margin-bottom: 40px;
+}
+
+.logo {
+    height: auto;
+    min-width: 150px;
+
+}
+
+.text-header {
+
+    text-align: center;
+    color: white;
+    margin-top: 160px;
+
+}
+
+.text1 {
+
+    font-size: 3.5rem;
+
+}
+
+.text2 {
+    font-size: 5rem;
+    word-wrap: break-word;
+}
+
+.text3 {
+    font-size: 2rem;
+    font-weight: lighter;
+    margin-top: 70px;
+}
+
+.text4 {
+
+    font-size: 3.2rem;
+    font-weight: lighter;
+    display: inline;
+    margin-top: 15px;
+
+}
+
+.navbar-toggler {
+
+    margin-top: 20px;
+}
+
+.btn {
+
+    border-radius: 0px;
+
+}
+
+
+/* Features */
+
+
+svg {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+/*about*/
+
+#about {
+    background-image: url(/images/bg_nuage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 650px;
+    margin-bottom: 40px;
+
+}
+
+.couleur {
+
+    background-color: rgba(73, 172, 172, 0.438);
+    width: 650px;
+
+}
+
+.text5 {
+
+    color: white;
+
+
+
+}
+
+.text6 {
+
+    font-size: 2rem;
+    padding-top: 50px;
+    margin-left: 50px;
+
+}
+
+.text7 {
+
+    font-size: 1.5rem;
+    margin-left: 50px;
+
+}
+
+.text8 {
+
+    font-size: 1.2rem;
+    margin-left: 50px;
+
+}
+
+
+.box1 {
+
+    width: 200px;
+    height: 200px;
+
+}
+
+.bicyclette {
+
+    width: 400px;
+    height: 400px;
+    margin-bottom: 200px;
+    margin-left: 80px;
+
+}
+
+.text9 {
+
+    font-size: 2, 5rem;
+
+}
+
+
+
+/*history*/
+
+#history {
+
+    background-image: url(/images/bg_appareil_photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    margin-bottom: 40px;
+
+}
+
+
+
+/*photo*/
+
+#photos {
+
+    background-color: rgb(136, 131, 131);
+
+}
+
+
+/*partenaires*/
+
+.redim {
+
+    width: 90%;
+    height: auto;
+    margin-left: 40px;
+}
+
+
+/*contac*/
+
+#contact {
+
+    background-image: url(/images/bg_newsletter.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    overflow: auto;
+    position: relative;
+    backdrop-filter: blur(20px);
+    backdrop-filter: brightness(0.5);
+
+}
+
+
+
+/*footer*/
+
+.card1 {
+
+    background-color: #24323b;
+    font-size: 33px;
+
+}
+
+.card-text {
+
+    color: white;
+    margin-top: 20px;
+    margin-left: 85px;
+
+}
+
+.text11 {
+
+    font-size: 15px;
+    color: white;
+    margin-left: 85px;
+    display: inline;
+
+}
+
+.text12 {
+
+    font-size: 15px;
+    color: aqua;
+    display: inline;
+
+}
+
+
+/*footer*/
+
+.redim1 {}
